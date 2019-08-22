@@ -1,6 +1,6 @@
-var name = "Simon"
-var age = 29
-var profession = "Developer"
+const name = "Simon"
+const age = 29
+const profession = "Developer"
 
 // String substitution
 console.log(
